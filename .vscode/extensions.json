@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "dsznajder.es7-react-js-snippets",
+        "pkief.material-icon-theme",
+        "manuth.eslint-language-service"
+    ]
+}
